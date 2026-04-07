@@ -1,7 +1,12 @@
 aid: exxon-mobil
-url: https://raw.githubusercontent.com/api-evangelist/exxon-mobil/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/exxon-mobil/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.exxon-mobil.com
+description: >-
+  Exxon Mobil is one of the world's largest publicly traded international energy companies,
+  exploring for, producing, and refining oil and natural gas and manufacturing petroleum
+  and chemical products.
