@@ -21,6 +21,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/ExxonMobil
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/exxonmobil
   - type: Website
     url: https://corporate.exxonmobil.com
   - type: Newsroom
