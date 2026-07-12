@@ -21,6 +21,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/exxon-mobil-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/ExxonMobil
   - type: LinkedIn
@@ -33,6 +35,8 @@ common:
     url: https://corporate.exxonmobil.com/investors
   - type: Careers
     url: https://corporate.exxonmobil.com/careers
+  - url: https://corporate.exxonmobil.com/news
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
