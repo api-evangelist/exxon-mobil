@@ -1,7 +1,9 @@
 ---
 title: Applying digital technologies to drive energy innovation
 url: https://corporate.exxonmobil.com/who-we-are/technology-and-collaborations/digital-technologies
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Exxon Mobil" press release artificial intelligence'
 position: 2
 source: serpapi-google

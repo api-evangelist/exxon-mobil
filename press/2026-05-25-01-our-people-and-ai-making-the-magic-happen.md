@@ -1,7 +1,9 @@
 ---
 title: 'Our People and AI: Making the magic happen'
 url: https://corporate.exxonmobil.com/locations/india/newsroom/2025/making-the-magic-happen
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Exxon Mobil" press release artificial intelligence'
 position: 1
 source: serpapi-google

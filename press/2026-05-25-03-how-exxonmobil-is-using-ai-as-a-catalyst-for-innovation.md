@@ -1,7 +1,9 @@
 ---
 title: How ExxonMobil is using AI as a catalyst for innovation
 url: https://corporate.exxonmobil.com/locations/india/newsroom/2026/how-exxonmobil-is-using-ai-as-a-catalyst-for-innovation
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Exxon Mobil" press release artificial intelligence'
 position: 3
 source: serpapi-google
